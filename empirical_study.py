@@ -1,7 +1,7 @@
-from High_Frequency.limit_order_book.analysis_unit import *
+from .analysis_unit import *
 
-from High_Frequency.limit_order_book.performance_analysis import *
-from High_Frequency.limit_order_book.data_util import *
+from .performance_analysis import *
+from .data_util import *
 # 为了节约时间 不遍历所有的tick数据 而是选择在阈值之上的入场点进行遍历
 # 寻找下一个出场点，之后再遍历出场点之后的入场点进行遍历
 # 更改数据接口之后实盘再更改，需要优化配置
