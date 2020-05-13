@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-from High_Frequency.limit_order_book.analysis_unit import *
+from .analysis_unit import *
 
 
 data = pd.read_pickle("High_Frequency/example_data/海天味业Level-2.pkl")
