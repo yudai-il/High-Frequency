@@ -2,7 +2,7 @@ import pyecharts.options as opts
 from pyecharts.charts import Line,Scatter,Grid
 from pyecharts.render import make_snapshot
 import numpy as np
-from High_Frequency.limit_order_book.performance_analysis import *
+from .performance_analysis import *
 
 import matplotlib.pyplot as plt
 # 支持中文
