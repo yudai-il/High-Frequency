@@ -5,6 +5,6 @@
 该项目进展：
 
 1. Start：Sep.2019 
-2. Better Visual display：Dec.2019 
+2. Better Visual display by Pyechart：Dec.2019 
 
 
