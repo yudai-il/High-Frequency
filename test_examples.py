@@ -4,10 +4,8 @@ import numpy as np
 from .analysis_unit import *
 
 
-data = pd.read_pickle("High_Frequency/example_data/海天味业Level-2.pkl")
+data = pd.read_pickle("High_Frequency/example_data/xxxLevel-2.pkl")
 
-
-# min_bar = pd.read_pickle("High_Frequency/example_data/海天味业_min_price.pkl")
 
 wp_2_10 = weighted_price(data, 2, 10)
 
