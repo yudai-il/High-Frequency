@@ -53,6 +53,30 @@ Limit book distribution and subsequent price moves；图来源：High-Frequency 
 
 
 
+## 参考文献：
+1.	Cao, C., Hansch, O., & Wang, X. (2009). The information content of an open limit‐order book. Journal of Futures Markets, 29(1), 16-41. 
+
+2.	Cont R , Kukanov A , Stoikov S . The Price Impact of Order Book Events[J]. Social Science Electronic Publishing.
+
+3.	Shen D . Order Imbalance Based Strategy in High Frequency Trading[J]. 2015.
+
+4.	Chordia T , Roll R , Subrahmanyam A . Order imbalance, liquidity, and market returns[J]. Journal of Financial Economics, 2002, 65.
+
+5.	Chordia, T. & Subrahmanyam, A. 2004, "Order imbalance and individual stock returns: Theory and evidence", Journal of Financial Economics, vol. 72, no. 3, pp. 485-518.
+
+6.	Chordia T , Subrahmanyam A . Order imbalance and individual stock returns: Theory and evidence[J]. Journal of Financial Economics, 2004, 72.
+
+7.	Ravi R , Sha Y . Autocorrelated Order-Imbalance and Price Momentum in the Stock Market[J]. International Journal of Economics and Finance, 2014, 6(10).
+
+8.	Charles M. C. Lee & Ready, M.J. 1991, "Inferring Trade Direction from Intraday Data", The Journal of Finance, vol. 46, no. 2, pp. 733-746.
+
+9.	Irene Aldridge .High-Frequency Trading
+
+10.	天风证券-买卖压力失衡-利用高频数据拓展盘口数据
+
+11.	海通证券-听海外高频交易专家讲解美国的高频交易
+
+12.	平安证券-从海外经验看中国高频交易的发展
 
 
 
